@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		29DF09152EA6539F005CB1E9 /* Plant_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29DF09142EA6539F005CB1E9 /* Plant_AppApp.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		292C2DFC2EA5286D00D45C50 /* Plant App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Plant App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		29DF09142EA6539F005CB1E9 /* Plant_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant_AppApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		292C2DF32EA5286D00D45C50 = {
 			isa = PBXGroup;
 			children = (
+				29DF09142EA6539F005CB1E9 /* Plant_AppApp.swift */,
 				292C2DFE2EA5286D00D45C50 /* Plant App */,
 				292C2DFD2EA5286D00D45C50 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29DF09152EA6539F005CB1E9 /* Plant_AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
